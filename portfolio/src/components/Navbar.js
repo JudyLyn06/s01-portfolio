@@ -5,7 +5,7 @@ import Nav from 'react-bootstrap/Nav'
 
 export default function AppNavbar() {
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="dark" expand="lg">
         <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
             <Nav className="mr-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
